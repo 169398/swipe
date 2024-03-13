@@ -17,7 +17,7 @@ Swipe is a social media app designed to connect university students and make fin
 1.**Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/swipe.git
+git clone https://github.com/169398/swipe
 cd swipe
 ```
 2. Install dependencies: `npm install`
