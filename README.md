@@ -4,7 +4,7 @@ Swipe is a social media app designed to connect university students and make fin
 
 ## Features ✨
 
-👫 **Connect with Classmates:** Swipe through profiles of other university students and connect with your classmates.
+👫 **Connect with Classmates through communities:** Swipe through profiles of other university students and connect with your classmates.
 
 ❤️ **Find Your Crush:** Use Swipe's matching feature to find your crush or make new connections.
 
